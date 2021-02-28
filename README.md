@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <table>
+  <table style= "border : none">
     <tr>
       <td>
         <strong>I'm part of these organisations:</strong><br>
