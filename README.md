@@ -7,8 +7,8 @@
 
 <p align="center">
   <table style= "border : none">
-    <tr>
-      <td>
+    <tr style= "border : none" >
+      <td >
         <strong>I'm part of these organisations:</strong><br>
         <table>
           <tr>
