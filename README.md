@@ -1,6 +1,13 @@
 <!--
 **SashoStoichkov/SashoStoichkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<style>
+table, th, td {
+  border: none;
+  
+}
+</style>
 <h1 align="center" width="100%">
   <img src="./GH Cover.gif">
 </h1>
